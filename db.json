@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": "74ca",
+      "email": "user0@gmail",
+      "password": "12345678"
+    },
+    {
+      "id": "e8bc",
+      "email": "user1@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "4b7e",
+      "email": "user2@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "ca6f",
+      "email": "user4@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "80f0",
+      "email": "user5@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "3686",
+      "email": "user6@gmail.com",
+      "password": "123456789"
+    }
+  ]
+}
